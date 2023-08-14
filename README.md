@@ -4,8 +4,12 @@
 <meta charset="UTF-8">
 <title>WyvRacers site</title>
 </head>
-<body>
-<h1>Check out cool and quirky game:</h1>
+<body>    
+<br>   
+<img src="gamelogo2.jpeg" alt="game logo">     
+<h2>Check out cool and quirky game teaser by MUJI: </h2>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/eYjpP7DTkQ0"">
+</iframe>    
 <p>PC LINK:</p>
 <a href="https://drive.google.com/file/d/1HBqhcrPeAuh2-21I7_bysJmPreWwHMJk/view?usp=drive_link" target="_blank"> <img src="current_menu.png" alt="pc download" width="100%"> </a>
 <hr>    
