@@ -10,7 +10,7 @@
 <h2>Check out cool and quirky game teaser by MUJI: </h2>
 <a href="https://www.youtube.com/embed/eYjpP7DTkQ0">here</a>     
 <p>PC LINK:</p>
-<a href="https://drive.google.com/file/d/1efTIHgwtWoVx935E45Tw8NOiSU72JwhG/view?usp=sharing" target="_blank"> <img src="current_menu.png" alt="pc download" width="100%"> </a>
+<a href="https://drive.google.com/file/d/1__IVOjkyQu7f_CtIuQo_E5cHAdQChQar/view?usp=sharing" target="_blank"> <img src="current_menu.png" alt="pc download" width="100%"> </a>
 <hr>    
 <p>ANDROID LINK:</p>
 <a href="https://drive.google.com/file/d/1UjfG1hbX9glIlyY5qfllQbsGkQWXjbI4/view?usp=sharing" target="_blank"> <img src="current_menu.png" alt="apk download" width="100%"> </a>
